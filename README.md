@@ -30,4 +30,4 @@ ________________________________________________________________________________
 [Artigo - Case Intel](https://github.com/IsraelEvangelista/Scrum_Master/blob/main/Desafio%20de%20Projeto%2001%20-%20Case%20Intel.docx)
 
 **Projeto 02:**
-[Miro - Framework Scrum](https://miro.com/app/live-embed/uXjVM_qpuQ0=/?moveToViewport=-4926,-3518,9877,5961&embedId=195435350148)
+[Miro - Framework Scrum](https://miro.com/app/board/uXjVM_qpuQ0=/?share_link_id=754807794465)
